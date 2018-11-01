@@ -1,3 +1,15 @@
 h1 {
   text-align: center;
 }
+
+.one{
+  color: red;
+}
+
+.two{
+  color: blue;
+}
+
+div{
+  display: inline-block;
+}
